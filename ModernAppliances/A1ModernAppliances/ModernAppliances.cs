@@ -15,7 +15,7 @@ namespace ModernAppliances
         /// <summary>
         /// Location of appliances.txt file
         /// </summary>
-        public const string APPLIANCES_TEXT_FILE = "C:/Users/tkbkr/OneDrive/Desktop/CPRG-211-A/Assignment01/Assignment1Skeleton (2)/Assignment1Skeleton (2)/ModernAppliances/A1ModernAppliances/appliances.txt";
+        public const string APPLIANCES_TEXT_FILE = "ModernAppliances/A1ModernAppliances/appliances.txt";
 
         /// <summary>
         /// Options user can choose
